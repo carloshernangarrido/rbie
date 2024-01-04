@@ -1,1 +1,1 @@
-# rbie
+# Registration-based image enhancement
